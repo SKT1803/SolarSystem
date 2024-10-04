@@ -18,6 +18,7 @@ Features:
   <li>There are <b>zoom and panning</b> features in the solar system.</li>
   <li>Different CSS animations is used.</li>
   <li>User friendly and Responsive</li>
+  <li>Just click the buttons to display and undisplay the planets.</li>
 </ul>
 
 <h4>Images of the WebPage</h4>
