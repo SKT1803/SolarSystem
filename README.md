@@ -1,4 +1,20 @@
 <h2>Modeled version of the solar system</h2>
+<b>Uses JavaScript, React Framework & CSS</b>
+<br>
+<br>
+In this project I tried to model the solar system. 
+<br>
+<br>
+Features:
+<ul>
+  <li>The model includes 8 planets in the solar system, the moon and the sun.</li>
+  <li>You can adjust the rotation speed of the planets around themselves and the sun.</li>
+  <li>The size of the planets can be adjusted.</li>
+  <li>You can see the orbits of the planets with the "Show-Info & Display Orbit" button.</li>
+  
+</ul>
+
+
 
 
 
