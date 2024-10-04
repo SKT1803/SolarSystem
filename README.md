@@ -6,11 +6,15 @@ In this project I tried to model the solar system.
 <br>
 <br>
 Features:
+<br>
+<br>
 <ul>
   <li>The model includes 8 planets in the solar system, the moon and the sun.</li>
   <li>You can adjust the rotation speed of the planets around themselves and the sun.</li>
   <li>The size of the planets can be adjusted.</li>
   <li>You can see the orbits of the planets with the "Show-Info & Display Orbit" button.</li>
+  <li>When you press the "Show-Info & Display Orbit" button, you can see the names of the planets in a popup. When you click on the popup, you will be directed to NASA's official website to get information about 
+      the planet. <b>Currently it is only made for the sun, other planets will be added soon.</b></li>
   
 </ul>
 
