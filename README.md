@@ -1,5 +1,5 @@
 <h2>Modeled version of the solar system</h2>
-<b>Uses JavaScript, React Framework & CSS</b>
+<b>Used JavaScript, React Framework & CSS</b>
 <br>
 <br>
 In this project I tried to model the solar system. 
