@@ -15,7 +15,7 @@ Features:
   <li>You can see the orbits of the planets with the "Show-Info & Display Orbit" button.</li>
   <li>When you press the "Show-Info & Display Orbit" button, you can see the names of the planets in a popup. When you click on the popup, you will be directed to NASA's official website to get information about 
       the planet. <b>Currently it is only made for the sun, other planets will be added soon.</b></li>
-  
+  <li>There are <b>zoom and panning</b> features in the solar system.</li>
 </ul>
 
 
